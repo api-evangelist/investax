@@ -1,8 +1,26 @@
 aid: investax
 name: InvestaX
-description: InvestaX is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  InvestaX is a Singapore-based, MAS-licensed tokenization platform for real-world assets (RWAs),
+  operated by IC SG Pte. Ltd. under a Capital Markets Services license (CMS100635) and a Recognised
+  Market Operator license from the Monetary Authority of Singapore. The platform provides end-to-end
+  infrastructure for the issuance, distribution, secondary trading, and custody of security tokens and
+  tokenized securities, plus a Tokenization SaaS product for institutional issuers and RWA investment
+  products such as tokenized money market funds and private credit. It supports multiple blockchain
+  protocols including Ethereum, Polygon, BASE, Algorand, Tezos, and Hedera. Backed by 500 Global.
 url: https://raw.githubusercontent.com/api-evangelist/investax/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/65682eda7c0dcf7ed63a11de/695baf02b045aeec429924ec_opengraph.webp
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Tokenization
+- Digital Securities
+- Real World Assets
+- Blockchain
+- Fintech
+- Capital Markets
+- Financial Services
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +47,29 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://is.finance
+  url: https://investax.io
+- type: SignUp
+  url: https://prime.investax.io/auth/sign-up?identityType=individual
+- type: Login
+  url: https://prime.investax.io/auth/sign-in/
+- type: Support
+  url: https://investax.io/contact
+- type: Blog
+  url: https://blog.investax.io/blog/investax-asset-tokenization-platform-use-case-explain
+- type: TermsOfService
+  url: https://investax.io/terms-of-use
+- type: PrivacyPolicy
+  url: https://investax.io/privacy
+- type: Compliance
+  url: https://investax.io/disclosures
+- type: LinkedIn
+  url: https://www.linkedin.com/company/investax/
+- type: DomainSecurity
+  url: security/investax-domain-security.yml
+- type: LLMsTxt
+  url: llms/investax-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

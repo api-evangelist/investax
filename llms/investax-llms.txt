@@ -1,0 +1,29 @@
+# InvestaX
+
+> InvestaX is a Singapore-based, MAS-licensed tokenization platform for real-world assets (RWAs), operated by IC SG Pte. Ltd. under a Capital Markets Services license (CMS100635) and a Recognised Market Operator license from the Monetary Authority of Singapore. It provides end-to-end infrastructure for issuance, distribution, secondary trading, and custody of security tokens, a Tokenization SaaS product for institutional issuers, and RWA investment products. Backed by 500 Global.
+
+## Company
+- [InvestaX](https://investax.io/): Institutional-grade real-world asset tokenization platform.
+- [About](https://investax.io/about): Company overview and MAS licensing.
+- [Tokenization Platform](https://investax.io/tokenization-platform): Licensed RWA tokenization infrastructure.
+- [Tokenization SaaS Platform](https://investax.io/tokenization-saas-platform): White-label SaaS for issuers.
+- [Issuers](https://investax.io/issuers): Guidance for asset token issuers.
+- [Partners](https://investax.io/partners): RWA tokenization ecosystem partners.
+
+## Product Access
+- [Sign Up](https://prime.investax.io/auth/sign-up?identityType=individual): Create an InvestaX Prime account.
+- [Sign In](https://prime.investax.io/auth/sign-in/): Log in to InvestaX Prime.
+
+## Docs & Learn
+- [Education](https://investax.io/education): Learn about digital securities and tokenization.
+- [FAQ](https://investax.io/faq): Frequently asked questions.
+- [Blog](https://blog.investax.io/blog/investax-asset-tokenization-platform-use-case-explain): Platform use-case articles.
+- [Contact](https://investax.io/contact): Support and contact.
+
+## Legal & Compliance
+- [Disclosures](https://investax.io/disclosures): MAS regulatory licenses (CMS100635, Recognised Market Operator).
+- [Terms of Use](https://investax.io/terms-of-use): Terms of service.
+- [Privacy Policy](https://investax.io/privacy): Privacy policy.
+
+## Notes
+- No public developer API, OpenAPI specification, SDK, or MCP server was found at time of enrichment (2026-07-19). The developer subdomain develop.investax.io did not resolve; /.well-known discovery on investax.io returned 404; is.finance is a parked lander domain.
