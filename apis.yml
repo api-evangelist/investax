@@ -9,6 +9,17 @@ description: >-
   products such as tokenized money market funds and private credit. It supports multiple blockchain
   protocols including Ethereum, Polygon, BASE, Algorand, Tezos, and Hedera. Backed by 500 Global.
 url: https://raw.githubusercontent.com/api-evangelist/investax/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
